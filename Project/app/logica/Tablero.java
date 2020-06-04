@@ -7,6 +7,7 @@ public class Tablero{
     for (int j=0; j<3; j++){
       for(int i=0; i<3; i++){
         tableroJuego[j][i] = new Ficha ();
+<<<<<<< HEAD
         tableroJuego[j][i].setForma("-");
       }
     }
@@ -20,4 +21,9 @@ public class Tablero{
       System.out.println("");
     }
   }
+=======
+      }
+    }
+  }
+>>>>>>> 814ee65af5834b47f45283f7ff441ca25af24837
 }
