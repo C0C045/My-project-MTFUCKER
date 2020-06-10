@@ -1,4 +1,4 @@
-package app.logica
+package app.logica;
 
 public class Ficha {
   private String forma;
